@@ -6,7 +6,7 @@ Parametric UMAP (2020; Code for paper)
 ![parametric-umap-algorithm](images/UMAP-OUTLINE-bot-small.png)
 
 
-This repository contains the code needed to reproduce the results in the paper "Parametric UMAP: learning embeddings with deep neural networks for representation and semi-supervised learning" by Sainburg, McInnes, and Gentner (2020). 
+This is for test. This repository contains the code needed to reproduce the results in the paper "Parametric UMAP: learning embeddings with deep neural networks for representation and semi-supervised learning" by Sainburg, McInnes, and Gentner (2020). 
 
 Citation: 
 
